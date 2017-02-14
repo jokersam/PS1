@@ -15,9 +15,9 @@ public class Rectangle {
 		return Width;
 	}
 	
-	public static double Area()
+	public double Area()
 	{
 		// TODO Implement Area() function with the correct formula
-		return Rectangle.Area();
+		return Length * Width;
 	}	
 }
